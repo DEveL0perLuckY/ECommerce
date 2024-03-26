@@ -13,7 +13,7 @@ const HomeScreen = ({ navigation }) => {
   return (
     <ScrollView contentContainerStyle={styles.container}>
       <View style={styles.container}>
-        <Text style={styles.title}>Welcome to My E-commerce App </Text>
+        <Text style={styles.title}>Welcome to Our E-commerce App!</Text>
       </View>
       <TouchableOpacity
         style={styles.allProductsContainer}
